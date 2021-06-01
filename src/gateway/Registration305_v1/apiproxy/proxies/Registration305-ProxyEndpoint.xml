@@ -25,9 +25,7 @@
     </PreFlow>
     
     <Flows>
-      	<Step>
-  			<Name>AccessControl</Name>
-		</Step>
+
         <Flow name="UserRegistration">
           <Request>
             <Step>

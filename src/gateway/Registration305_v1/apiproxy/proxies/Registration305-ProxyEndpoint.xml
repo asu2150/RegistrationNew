@@ -75,7 +75,7 @@
   <PostClientFlow>
   </PostClientFlow>
     <HTTPProxyConnection>
-        <BasePath>/v1/users</BasePath>
+        <BasePath>/v10/users</BasePath>
 		<VirtualHost>secure</VirtualHost>
 		<VirtualHost>default</VirtualHost>
     </HTTPProxyConnection>
